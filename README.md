@@ -12,6 +12,8 @@
 
 ### Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vla5924&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=vla5924&show_icons=true&count_private=true&hide_title=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=vla5924)
+Most Used Languages | Week Coding Stats
+--- | ---
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=vla5924&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![](https://github-readme-stats.vercel.app/api/wakatime?username=vla5924&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
